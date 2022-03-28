@@ -1,0 +1,2 @@
+# mrtltci-
+Kazanç sağlamak
